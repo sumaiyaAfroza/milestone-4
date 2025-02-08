@@ -7,3 +7,5 @@ if(price >= 50){
 else{
     console.log("can't buy")
 }
+
+
